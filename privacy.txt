@@ -1,0 +1,14 @@
+Privacy Policy
+
+Short:
+- We (Extension Developer) are not interested in your data at all and do not collect anything!
+- Please be aware that any content you summarize with the help of ChatGPT is subject of: https://openai.com/privacy/
+
+Long:
+The extension does not collect any personal information about its users.
+The extension does not track your browsing activity, does not access your personal files, and does not collect any information about your device.
+The extension only performs its intended function and does not collect, store, or share any information with third parties.
+
+If you have any questions or concerns about our privacy policy or the way in which we handle your data, please do not hesitate to contact us.
+
+Thank you!
